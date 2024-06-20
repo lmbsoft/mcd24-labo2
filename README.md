@@ -5,4 +5,4 @@ Repositorio Laboratorio de implementación 2 - Grupo 2
 - Franco Sonzogni	fdsonzogni
 - Pablo Alberto Cabral	pabloalbertocabral2024au
 - Juan Czyrka	magojun
-- Leandro Bosselier	https://github.com/lmbsoft
+- Leandro Boisselier	https://github.com/lmbsoft
